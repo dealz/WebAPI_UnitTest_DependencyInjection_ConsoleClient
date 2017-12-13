@@ -1,0 +1,7 @@
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\bin\Debug\ExamWebAPI_UnitTest.dll
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\bin\Debug\ExamWebAPI_UnitTest.pdb
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\obj\Debug\ExamWebAPI_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\obj\Debug\ExamWebAPI_UnitTest.dll
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Test\ExamWebAPI_UnitTest\obj\Debug\ExamWebAPI_UnitTest.pdb

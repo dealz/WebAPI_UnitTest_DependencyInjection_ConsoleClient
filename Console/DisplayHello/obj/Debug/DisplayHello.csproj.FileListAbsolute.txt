@@ -1,0 +1,19 @@
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\DisplayHello.exe.config
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\DisplayHello.exe
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\DisplayHello.pdb
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\obj\Debug\DisplayHello.exe
+C:\Users\ALLPAL\Downloads\Dependency Injection for Web API Controllers\C#\Console\DisplayHello\obj\Debug\DisplayHello.pdb
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\DisplayHello.exe.config
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\DisplayHello.exe
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\DisplayHello.pdb
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\obj\Debug\DisplayHello.csprojResolveAssemblyReference.cache
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\obj\Debug\DisplayHello.exe
+C:\Users\ALLPAL\Documents\WebAPI_UnitTest_DependencyInjection_ConsoleClient\Console\DisplayHello\obj\Debug\DisplayHello.pdb
